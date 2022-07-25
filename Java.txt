@@ -1,0 +1,11 @@
+*  VARIABLE DECLARATION :-
+=> Variables are containers for storing data (storing data values).
+
+=> In this example, x, y, and z, are variables, declared with the var keyword:
+
+When to Use JavaScript const?
+If you want a general rule: always declare variables with const.
+
+If you think the value of the variable can change, use let.
+
+In this example, price1, price2, and total, are variables:
